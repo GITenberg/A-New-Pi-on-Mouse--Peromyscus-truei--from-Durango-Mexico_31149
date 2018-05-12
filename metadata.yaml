@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35022'
     url: http://www.gutenberg.org/2009/agents/35022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31149#A-New-Pi-on-Mouse--Peromyscus-truei--from-Durango-Mexico
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
