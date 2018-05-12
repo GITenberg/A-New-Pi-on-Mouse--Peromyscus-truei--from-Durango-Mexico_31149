@@ -1,0 +1,29 @@
+_repo: A-New-Pi-on-Mouse--Peromyscus-truei--from-Durango-Mexico_31149
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finley, Robert B.
+    gutenberg_agent_id: '35022'
+    url: http://www.gutenberg.org/2009/agents/35022
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2010-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31149'
+  lccn: '52062714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Mice'
+- !lcc 'QL'
+title: A New Piñon Mouse (Peromyscus truei) from Durango, Mexico
+url: http://www.gutenberg.org/ebooks/31149
